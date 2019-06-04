@@ -1,0 +1,9 @@
+﻿  task6.c
+c:\users\user\desktop\практика\t3\t3\task6.c(98): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\user\desktop\практика\t3\t3\task6.c(121): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\user\desktop\практика\t3\t3\task6.c(133): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+  c:\users\user\desktop\практика\t3\t3\task6.c(133): note: заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  c:\users\user\desktop\практика\t3\t3\task6.c(133): note: отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+  c:\users\user\desktop\практика\t3\t3\task6.c(133): note: этот аргумент используется в качестве размера буфера
+c:\users\user\desktop\практика\t3\t3\task6.c(69): warning C4716: summ3: должна возвращать значение
+  t3.vcxproj -> C:\Users\User\Desktop\практика\t3\Debug\t3.exe
