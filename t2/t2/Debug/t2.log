@@ -1,0 +1,6 @@
+﻿  task3.c
+c:\users\user\desktop\t2\t2\task3.c(56): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+  c:\users\user\desktop\t2\t2\task3.c(56): note: заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  c:\users\user\desktop\t2\t2\task3.c(56): note: отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+  c:\users\user\desktop\t2\t2\task3.c(56): note: этот аргумент используется в качестве размера буфера
+  t2.vcxproj -> C:\Users\User\Desktop\t2\Debug\t2.exe
