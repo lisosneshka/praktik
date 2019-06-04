@@ -1,0 +1,5 @@
+C:/Users/Android/source/repos/lab5_7/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Android/source/repos/lab5_7/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Android/source/repos/lab5_7/out/build/x64-Debug/lab5/CMakeFiles/lab5.dir
+C:/Users/Android/source/repos/lab5_7/out/build/x64-Debug/lab5/CMakeFiles/edit_cache.dir
+C:/Users/Android/source/repos/lab5_7/out/build/x64-Debug/lab5/CMakeFiles/rebuild_cache.dir
