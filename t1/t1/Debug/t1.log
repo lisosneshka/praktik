@@ -1,0 +1,6 @@
+﻿  task7_func.c
+  task7_main.c
+c:\users\user\desktop\t1\t1\task7_main.c(7): warning C4013: f2: нет определения; предполагается "extern" с возвратом типа "int"
+  Создание кода...
+c:\users\user\desktop\t1\t1\task7_func.c(11): warning C4716: f2: должна возвращать значение
+  t1.vcxproj -> C:\Users\User\Desktop\t1\Debug\t1.exe
